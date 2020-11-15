@@ -2,7 +2,7 @@
 
 ##### Learn PWA in baby steps
 
-Step01 - Simple Hello World
-step02 - Access Cache Records
-step03 - AppIcon
-step04 - NetworkOnly 
+###### Step01 - Simple Hello World
+###### Step02 - Access Cache Records
+###### Step03 - AppIcon
+###### Step04 - NetworkOnly 
